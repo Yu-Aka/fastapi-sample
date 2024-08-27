@@ -1,4 +1,4 @@
-name: deploy-pr
+name: deploy-pr #for-rerun
 
 on:
   pull_request:
